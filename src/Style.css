@@ -48,7 +48,7 @@ header p {
 .task-form {
   display: flex;
   flex-wrap: wrap;
-  gap: 8px;
+  gap: 40px;
   margin: 16px 0;
 }
 
@@ -76,7 +76,7 @@ header p {
   background: #111111;
   color: #ffffff;
   padding: 8px 12px;
-  border-radius: 6px;
+  border-radius: 26px;
   cursor: pointer;
 }
 
